@@ -4,7 +4,7 @@ CLI tool for visualizing JSON/YAML files.
 
 ## Caveats
 
-This project isn't finished yet, and is not handling big files very well...
+This project isn't finished yet, and is not handling big files very well, you have been warned!
 
 ## Install
 
