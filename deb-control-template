@@ -1,0 +1,5 @@
+Package: PKG_NAME
+Version: PKG_VERSION
+Maintainer: Ben Weidig<ben+trex@netzgut.net>
+Architecture: ARCH
+Description: CLI tool for visualizing JSON/YAML files
