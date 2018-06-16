@@ -62,7 +62,7 @@
   branch = "master"
   name = "github.com/rivo/tview"
   packages = ["."]
-  revision = "6ffb56ee2a2419f190043ff60003656530a9f0e2"
+  revision = "e643d10b365df4caec5ed32e4c1103e185af9079"
 
 [[projects]]
   name = "github.com/spf13/cobra"
@@ -80,7 +80,7 @@
   branch = "master"
   name = "golang.org/x/sys"
   packages = ["unix"]
-  revision = "7c1e4f34a39c8bf93b6a3379e4ffb3b118ecc614"
+  revision = "6c888cc515d3ed83fc103cf1d84468aad274b0a7"
 
 [[projects]]
   name = "golang.org/x/text"
